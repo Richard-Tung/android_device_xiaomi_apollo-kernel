@@ -1,6 +1,6 @@
-# Prebuilt kernel files for Xiaomi Mi 10T/Xiaomi Mi 10T Pro (apollo/apollopro)
+# Prebuilt kernel files for Redmi K30S Ultra/Xiaomi Mi 10T/Xiaomi Mi 10T Pro (apollo/apollopro)
 
-From apollo-user 11 RKQ1.200826.002 20.12.25 release-keys
+From apollo-user 11 RKQ1.200826.002 21.2.3 release-keys
 
 ```
 #
